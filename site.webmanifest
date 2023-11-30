@@ -1,0 +1,23 @@
+{
+    "name": "Sahrilku.com",
+    "short_name": "Sahrilku",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizI0b_ufxe_PgZi_m26CjPszji8njVmzld7omCOvF3_om7ilfRtD_g09z0XeWq_2_8l6DgnCl4sQpGbVyWhNDLOPEnCnfPSAQxwuF7A8GNed5YreMgN_NbTVNqp7l7Oe6RWjriaATR9Q_uyNukztr-0Y1zF2YKjB-5ipXuJQWk_91iKfK1t2cf74Th35Ll/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg765pY5sZ3ylqMNkei_xGZU92ghCzvGQOCjYok-we3rQTyulP5c-7AdmeDFCiUrOmnIAlP9DDJuBH7qXz-xLYVVJBm2YwrilT_jZamrGW-g_mVCXTTeQbsv1ALP-njeA76yDue6QLTBqxmO-y1-8qkSmNMvVM02BTsurFp80XmdEuAkHKmvpnRksDMJZx7/s1600/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.sahrilku.com"
+}
